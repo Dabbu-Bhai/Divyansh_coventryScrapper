@@ -2,6 +2,8 @@
 
 A production-quality Python web scraper that crawls the official Coventry University website (`coventry.ac.uk`), discovers course pages, and extracts structured data for **exactly 5 courses** into a clean JSON file.
 
+Github - [https://github.com/Dabbu-Bhai/Divyansh_coventryScrapper]
+
 ---
 
 ## Project Structure

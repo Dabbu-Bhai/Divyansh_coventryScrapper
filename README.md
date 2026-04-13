@@ -54,7 +54,7 @@ The scraper follows a clean **3-layer pipeline**:
 ### 1. Clone / download the project
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Dabbu-Bhai/Divyansh_coventryScrapper
 cd coventry_scraper
 ```
 
